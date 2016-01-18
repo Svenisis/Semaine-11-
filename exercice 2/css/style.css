@@ -1,0 +1,27 @@
+body{
+    background-image:url("../images/vindicare.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-style:Comic Sans MS;
+    text-align:center;
+}
+
+.entete{
+    text-align:center;
+    color:black;
+    border-style:groove;
+    background-color:red;
+    margin-bottom:40px;
+}
+
+#choixordi{
+    font-size:20px;
+}
+
+#votrechoix{
+    font-size:20px;
+}
+
+#choix{
+    cursor:pointer;
+}
